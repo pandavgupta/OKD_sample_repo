@@ -1,3 +1,6 @@
 <?php
-print "This is my php code";
+print "<h1>This is my php code</h1>";
+print `ifconfig`;
+echo "bye"
+
 ?>
